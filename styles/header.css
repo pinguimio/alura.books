@@ -52,15 +52,14 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    text-transform: uppercase;
-
-    @media screen and (min-width: 1024px) {
-  /* Estilos para tablets */
-}
-
-    
+    text-transform: uppercase;    
 }
 
 .container__botao {
     display: none;
+}
+
+
+    @media screen and (min-width: 1024px) {
+  /* Estilos para tablets */
 }
