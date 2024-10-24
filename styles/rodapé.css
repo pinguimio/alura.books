@@ -43,14 +43,6 @@ hr {
   }
 }
 
-@media screen and (min-width: 1024px) {
-  /* Código omitido */
-
-  .lista-rodapé {
-    display: block;
-  }
-}
-
 .lista-rodapé {
   display: none;
 }
