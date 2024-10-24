@@ -42,3 +42,11 @@ hr {
     color: var(--cinza-claro);
   }
 }
+
+@media screen and (min-width: 1024px) {
+  /* Código omitido */
+
+  .lista-rodapé {
+    display: block;
+  }
+}
