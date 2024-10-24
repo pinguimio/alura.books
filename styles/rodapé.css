@@ -50,3 +50,7 @@ hr {
     display: block;
   }
 }
+
+.lista-rodapé {
+  display: none;
+}
