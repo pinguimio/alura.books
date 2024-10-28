@@ -79,6 +79,7 @@
     .container__titulo {
         font-weight: 400;
         display: block;
+        list-style: none;
     }
 
     .container__titulo--negrito {
@@ -87,6 +88,7 @@
 
     .opções {
         display: flex;
+        
     }
 
     .opções__item {
