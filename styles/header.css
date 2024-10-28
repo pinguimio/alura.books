@@ -141,6 +141,7 @@
 
     .container__texto {
         display: block;
+        list-style: none;
     }
 
 }
