@@ -2,6 +2,7 @@
     background: var(--azul-degrade);
     text-align: center;
     padding: 1em 0;
+    list-style: none; 
 }
 
 .tópicos__titulo {
