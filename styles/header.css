@@ -66,6 +66,7 @@
 
 .container__botao {
     display: none;
+    list-style: none;
 }
 
 .container__titulo {
@@ -78,7 +79,6 @@
 
 .opções {
     display: none
-    list-style: none;
 }
 
 @media screen and (min-width: 1024px) {
