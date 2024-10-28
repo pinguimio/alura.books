@@ -9,7 +9,7 @@
 }
 
 .container__botao:checked~.container__rotulo>.cabeçalho__menu-hamburguer {
-    background-image: url("../img/Menu Aberto.png");
+    background-image: url("../img/MenuAberto.png");
 }
 
 .container__botao:checked~.container__rotulo {
