@@ -50,6 +50,7 @@
 .lista-menu__item {
     padding: 1em;
     background-color: var(--branco);
+    list-style: none;
 }
 
 .lista-menu__titulo {
@@ -102,6 +103,7 @@
 
     .opções {
         display: flex;
+        list-style: none;
     }
 
     .opções__item {
